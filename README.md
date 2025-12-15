@@ -2,7 +2,7 @@
 
 ## 👤 Informasi
 - **Nama:** [Widya Wulandari]  
-- **Repo:** [...]  
+- **Repo:** [https://github.com/widyawuland/Klasifikasi-Status-Batu-Empedu.git]  
 - **Video:** [...]  
 
 ---
