@@ -169,34 +169,28 @@ Penambahan fitur klinis turunan:
 
 ---
 
-## 8. 🔮 Future Work
-Berikut adalah beberapa saran dan rencana pengembangan di masa depan untuk meningkatkan performa, fungsionalitas, dan penerapan model klasifikasi batu empedu ini:
+# 8. 🔮 Future Work
+Data:
+[✓] Mengumpulkan lebih banyak data
+[✓] Menambah variasi data
+[✓] Feature engineering lebih lanjut
 
-### 💾 Data
+Model:
+[✓] Mencoba arsitektur DL yang lebih kompleks
+[✓] Hyperparameter tuning lebih ekstensif
+[✓] Ensemble methods (combining models)
+[ ] Transfer learning dengan model yang lebih besar
 
-* ✅ Mengumpulkan lebih banyak data
-* ✅ Menambah variasi data (misalnya dari populasi atau demografi yang berbeda)
-* ✅ Feature engineering lebih lanjut (menciptakan fitur turunan baru dari data BIA atau metabolik yang sudah ada)
+Deployment:
+[✓] Membuat API (Flask/FastAPI)
+[✓] Membuat web application (Streamlit/Gradio)
+[ ] Containerization dengan Docker
+[ ] Deploy ke cloud (Heroku, GCP, AWS)
 
-### 🧠 Model
-
-* [✓] Mencoba arsitektur Deep Learning (DL) yang lebih kompleks (misalnya, Jaringan Saraf Konvolusional 1D atau model yang lebih dalam)
-* ✅ Hyperparameter tuning lebih ekstensif menggunakan teknik otomatis (seperti Grid Search atau Optuna)
-* ✅ Ensemble methods (menggabungkan hasil prediksi dari model terbaik, misalnya Logistic Regression dan MLP, untuk meningkatkan stabilitas dan akurasi)
-* ➖ Transfer learning dengan model yang lebih besar
-
-### 🚀 Deployment
-
-* ✅ Membuat API (misalnya menggunakan **Flask** atau **FastAPI**) agar model dapat diakses oleh aplikasi lain
-* ✅ Membuat web application (menggunakan **Streamlit** atau **Gradio**) untuk antarmuka demo yang *user-friendly*
-* ➖ Containerization dengan Docker
-* ➖ Deploy ke cloud (Heroku, GCP, AWS)
-
-### ⚡ Optimization
-
-* ➖ Model compression (pruning, quantization)
-* ✅ Improving inference speed (mempercepat waktu yang dibutuhkan model untuk membuat prediksi)
-* ✅ Reducing model size (mengurangi ukuran file model agar lebih ringan saat di-deploy)
+Optimization:
+[ ] Model compression (pruning, quantization)
+[✓] Improving inference speed
+[✓] Reducing model size
 
 ---
 
