@@ -169,29 +169,31 @@ Penambahan fitur klinis turunan:
 
 ---
 
-# 8. 🔮 Future Work
+## 8. 🔮 Future Work
+
 Berikut adalah rencana pengembangan di masa depan berdasarkan proyek ini:
-### Data:
-* [✓] Mengumpulkan lebih banyak data
-* [✓] Menambah variasi data
-* [✓] Feature engineering lebih lanjut
 
-### Model:
-* [✓] Mencoba arsitektur DL yang lebih kompleks
-* [✓] Hyperparameter tuning lebih ekstensif
-* [✓] Ensemble methods (combining models)
-* [ ] Transfer learning dengan model yang lebih besar
+### Data
+* - [x] Mengumpulkan lebih banyak data
+* - [x] Menambah variasi data
+* - [x] Feature engineering lebih lanjut
 
-### Deployment:
-* [✓] Membuat API (Flask/FastAPI)
-* [✓] Membuat web application (Streamlit/Gradio)
-* [ ] Containerization dengan Docker
-* [ ] Deploy ke cloud (Heroku, GCP, AWS) 
+### Model
+* - [x] Mencoba arsitektur DL yang lebih kompleks
+* - [x] Hyperparameter tuning lebih ekstensif
+* - [x] Ensemble methods (combining models)
+* - [ ] Transfer learning dengan model yang lebih besar
 
-### Optimization:
-* [ ] Model compression (pruning, quantization) 
-* [✓] Improving inference speed
-* [✓] Reducing model size
+### Deployment
+* - [x] Membuat API (Flask/FastAPI)
+* - [x] Membuat web application (Streamlit/Gradio)
+* - [ ] Containerization dengan Docker
+* - [ ] Deploy ke cloud (Heroku, GCP, AWS)
+
+### Optimization
+* - [ ] Model compression (pruning, quantization)
+* - [x] Improving inference speed
+* - [x] Reducing model size
 
 ---
 
