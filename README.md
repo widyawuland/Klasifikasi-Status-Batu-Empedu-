@@ -66,7 +66,8 @@ project/
 │   └── Feature Importance.png
 │   └── Confusion Matrix Deep Learning MLP.png
 │   └── visualisasi perbandingan model.png
-│ 
+│
+└── .gitignore
 └── README.md
 └── Cheklist Submit.md
 └── LICENSE.txt
