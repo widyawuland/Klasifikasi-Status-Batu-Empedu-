@@ -63,7 +63,7 @@ project/
 └── README.md
 └── Cheklist Submit.md
 └── LICENSE.txt
-└── Laporan Proyek Machine Learning.docx
+└── Laporan Proyek Machine Learning.pdf
 ```
 ---
 
