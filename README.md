@@ -19,14 +19,14 @@ Tahapan yang dilakukan meliputi:
 
 # 2. 📄 Problem & Goals
 **Problem Statements:** 
-- [Bagaimana membangun model machine learning dan deep learning untuk mengklasifikasikan status batu empedu berdasarkan data bioimpedansi dan parameter laboratorium?]
-- [Model mana yang memberikan performa terbaik dalam memprediksi risiko batu empedu?]
-- [Apakah model deep learning mampu memberikan peningkatan performa dibandingkan model machine learning tradisional?]
+- Bagaimana membangun model machine learning dan deep learning untuk mengklasifikasikan status batu empedu berdasarkan data bioimpedansi dan parameter laboratorium?
+- Model mana yang memberikan performa terbaik dalam memprediksi risiko batu empedu?
+- Apakah model deep learning mampu memberikan peningkatan performa dibandingkan model machine learning tradisional?
 
 **Goals:**  
-- [Mengembangkan model klasifikasi status batu empedu menggunakan data tabular klinis.]
-- [Membandingkan performa baseline model, advanced machine learning model, dan deep learning model.]
-- [Mengevaluasi performa model menggunakan metrik klasifikasi yang relevan.]
+- Mengembangkan model klasifikasi status batu empedu menggunakan data tabular klinis.
+- Membandingkan performa baseline model, advanced machine learning model, dan deep learning model.
+- Mengevaluasi performa model menggunakan metrik klasifikasi yang relevan.
   
 
 ---
