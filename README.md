@@ -279,12 +279,12 @@ data/gallstone_.csv
 ### Option 1: Script Modular
 
 ```bash
-python src/Download\ dan\ Load\ Dataset.py
-python src/Exploratory\ Data\ Analysis\ \(EDA\).py
-python src/Data\ Cleaning.py
-python src/Feature\ Engineering.py
-python src/Data\ Splitting.py
-python src/Data\ Transformation.py
+python src/Download dan Load Dataset.py
+python src/Exploratory Data Analysis (EDA).py
+python src/Data Cleaning.py
+python src/Feature Engineering.py
+python src/Data Splitting.py
+python src/Data Transformation.py
 python src/Modeling.py
 ```
 
