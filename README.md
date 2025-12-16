@@ -38,9 +38,16 @@ project/
 │   └── gallstone_.csv
 │ 
 ├── notebooks/              
-│   └── ML_Project.ipynb
+│   └── UAS_234311056_WIDYA_WULANDARI.ipynb
 │
-├── src/                    
+├── src/
+│   └── Download dan Load Dataset.py
+│   └── Exploratory Data Analysis (EDA).py
+│   └── Data Cleaning.py
+│   └── Feature Engineering.py
+│   └── Data Splitting.py
+│   └── Data Transformation.py
+│   └── Modeling.py
 │   
 ├── models/                
 │   ├── logistic_regression_model.pkl
