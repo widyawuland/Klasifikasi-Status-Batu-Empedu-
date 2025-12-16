@@ -71,6 +71,7 @@ project/
 └── Cheklist Submit.md
 └── LICENSE.txt
 └── Laporan Proyek Machine Learning.pdf
+└── requirements.txt
 ```
 ---
 
